@@ -1,5 +1,0 @@
-Proje Yazarı: Ali Yaşar
-Uygulama Adı: Kritik Eşik
-Uygulamanın Amacı: Sensör verileriyle çalışan sınır denetimli bir döngü mekanizmasını sözde kodla yapılandırmak ve değişkenlerdeki anlık değişimleri elle çalıştırma tekniğiyle adım adım takip etmek
-Problem Tanımı: Akıllı baraj otomasyonunda su seviyesi saatlik sensörlerle izlenmektedir. Su seviyesi 50 metreyi aşmadığı sürece kapaklar kapalı tutularak saat sayacı artırılır. Eşik aşıldığında ise döngü kırılarak tahliye saati ve kritik su seviyesi ekrana yazdırılmalıdır. Bu akışın sözde kodla modellenip kâğıt üzerinde test edilmesi kurgulanmıştır.
-![Kritik Eşik Akış Diyagramı](kritik_esik.png)
