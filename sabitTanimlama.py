@@ -1,0 +1,13 @@
+# Doğru Sabit Kullanım Standardı (BÜYÜK HARF)
+
+PI_SAYISI = 3.14159
+
+MAKSIMUM_DENEME_SAYISI = 3
+
+SISTEM_PORT_NUMARASI = 443
+
+VARSAYILAN_DIL = "TR"
+
+KARSILAMA_MESAJI = " Sisteme Hoş Geldiniz!"
+
+GELISTIRICI_MODU_ACIK = True
